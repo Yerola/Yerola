@@ -1,7 +1,7 @@
 # Hello there! I am Yesica Romina Lato 👋
 
 I am a fullstack developer who loves creating beautiful things!
-Feel free to browse through my repositories. May I suggest you start with [GamingHub](https://github.com/Yerola/rick-and-morty-henry-api)?
+Feel free to browse through my repositories. May I suggest you start with [Rick&Morty](https://github.com/Yerola/rick-and-morty-henry-api)?
 
 ## My skills include
 
