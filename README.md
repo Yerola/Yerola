@@ -1,6 +1,6 @@
 # Hello there! I am Yesica Romina Lato 👋
 
-I am a fullstack developer who loves creating beautiful things!
+I am a fullstack developer who loves creating beautiful things! Studying a Bachelor's Degree in Systems Engineering.
 Feel free to browse through my repositories. May I suggest you start with [Rick&Morty](https://github.com/Yerola/rick-and-morty-henry-api)?
 
 ## My skills include
